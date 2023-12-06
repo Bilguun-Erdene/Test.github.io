@@ -1,3 +1,11 @@
+@font-face {
+  font-family: 'Montserrat';
+  src: url('fonts/Montserrat-Italic-VariableFont_wght') format('tff'),
+       url('fonts/Montserrat-VariableFont_wght') format('tff');
+  /* Add more src lines for additional formats if needed */
+}
+
+
 html, body {
   background-color: darkslategray;
   margin: 0;
