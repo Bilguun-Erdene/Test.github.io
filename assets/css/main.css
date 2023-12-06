@@ -1,5 +1,10 @@
 @import 'https://fonts.google.com/specimen/Montserrat?query=montserrat';
-
+@font-face {
+  font-family: 'Montserrat';
+  src: url('../webfonts/Montserrat-Italic-VariableFont_wght') format('tff'),
+       url('../webfonts/Montserrat-VariableFont_wght') format('tff');
+  /* Add more src lines for additional formats if needed */
+}
 
 html, body {
   background-color: darkslategray;
